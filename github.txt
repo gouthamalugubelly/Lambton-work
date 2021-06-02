@@ -1,0 +1,13 @@
+Link for github
+
+https://github.com/takiszourntos/teaching/tree/master/lambton/2020
+
+
+http://beagleboard.org/latest-images
+
+
+takis: you don't want the images intended for a micro-SD card because they are BIG and won't fit in the 4-Gb on-board flash
+
+takis zourntos: AM3358 Debian 10.3 2020-04-06 4GB eMMC IoT Flasher
+
+https://github.com/takiszourntos/teaching/blob/master/lambton/2020/fall/ese3025/course_notes/RTS_week_2.pdf
